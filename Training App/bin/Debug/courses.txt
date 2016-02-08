@@ -1,0 +1,4 @@
+CS495 : Cloud Computing
+CS464 : Genetic Algorithms
+IS351 : Analysis
+IS345 : Internet Applications

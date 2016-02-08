@@ -1,0 +1,42 @@
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\bin\Debug\CameraCapture.exe
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\bin\Debug\CameraCapture.exe.config
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.CheckFrames.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.TrainData.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.FinishAddStudent.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.MainScreen.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.New_student.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.VideoCapturing.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\obj\Debug\Training App.csproj.GenerateResource.Cache
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.exe
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.pdb
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\bin\Debug\CameraCapture.pdb
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\FaceAttendanceSystem\Training App\Training App\obj\Debug\Training App.csprojResolveAssemblyReference.cache
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\bin\Debug\CameraCapture.exe.config
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.exe
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.pdb
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\obj\Debug\Training App.csprojResolveAssemblyReference.cache
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.CheckFrames.resources
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.TrainData.resources
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.FinishAddStudent.resources
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.MainScreen.resources
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.New_student.resources
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\obj\Debug\CameraCapture.VideoCapturing.resources
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\obj\Debug\Training App.csproj.GenerateResource.Cache
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\bin\Debug\CameraCapture.exe
+C:\Users\ahmad\Desktop\GP\FaceAttendanceSystem\Training App\Training App\bin\Debug\CameraCapture.pdb
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\bin\Debug\CameraCapture.exe.config
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\obj\Debug\CameraCapture.exe
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\obj\Debug\CameraCapture.pdb
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\obj\Debug\Training App.csprojResolveAssemblyReference.cache
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\obj\Debug\CameraCapture.CheckFrames.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\obj\Debug\CameraCapture.TrainData.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\obj\Debug\CameraCapture.FinishAddStudent.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\obj\Debug\CameraCapture.MainScreen.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\obj\Debug\CameraCapture.New_student.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\obj\Debug\CameraCapture.VideoCapturing.resources
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\obj\Debug\Training App.csproj.GenerateResource.Cache
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\bin\Debug\CameraCapture.exe
+C:\Users\abdel\Documents\Visual Studio 2013\Projects\Training App\Training App\bin\Debug\CameraCapture.pdb
